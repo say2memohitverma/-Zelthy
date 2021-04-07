@@ -13,4 +13,4 @@ Solution 3:
 
 Solution 4:
 1. Project link: https://github.com/say2memohitverma/OptimizationAlgorithm
-2. Project Description in project.pdf file.
+2. Project Description is in Hybrid Harris Hawks Optimization and Particle Swarm Optimization Algorithm.pdf file.
